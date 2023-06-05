@@ -1,3 +1,5 @@
+[React Doc](https://react.dev/)  
+[Next.js](https://nextjs.org/docs)  
 [Vite](https://vitejs.dev/guide/)
 
 Scaffolding Your First Vite Project  
